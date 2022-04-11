@@ -12,7 +12,7 @@ I am a 21 yo fresh grad who just recently stepped into the corporate world to le
 - If you like to support a fresh grad student like me, you can [buy me a cup of coffee](https://www.buymeacoffee.com/minjin777z), if you'd like.😙
 
 ## My Github Stats: 📈
-[![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntakinte777&show_icons=true&theme=swift)]
+[![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntakinte777&show_icons=true&theme=apprentice)]
 
 ## My top Languages: 🥇
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
