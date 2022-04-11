@@ -11,3 +11,5 @@ I am a 21 yo fresh grad who just recently stepped into the corporate world to le
 ## ☕ 
 - If you like to support a fresh grad student like me, you can [buy me a cup of coffee](https://www.buymeacoffee.com/minjin777z), if you'd like.😙
 
+[![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntakinte777)](https://github.com/anuraghazra/github-readme-stats)
+
