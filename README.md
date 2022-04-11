@@ -6,7 +6,8 @@ I am a 21 yo fresh grad who just recently stepped into the corporate world to le
 
 ## You can reach me here: 
 - 📫 How to reach me: www.linkedin.com/in/jaymond-chou
+- 📧 Email: minjin_777@hotmail.com
 
-🤜 
+## ☕ 
 - If you like to support a fresh grad student like me, you can [buy me a cup of coffee](https://www.buymeacoffee.com/minjin777z), if you'd like.😙
 
