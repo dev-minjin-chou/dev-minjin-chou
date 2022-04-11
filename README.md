@@ -15,7 +15,5 @@ My name is Jaymond Chou Minjin, I am a 21 yo fresh grad who just recently steppe
 ![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntakinte777&show_icons=true&theme=apprentice)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuntakinte777&layout=compact)
 
-## My top Languages: 🥇
-
 
 
