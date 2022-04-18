@@ -7,8 +7,8 @@ My name is Jaymond Chou Minjin, I am a 21 yo fresh grad who just recently steppe
 - 📫 How to reach me: www.linkedin.com/in/jaymond-chou
 - 📧 Email: minjin_777@hotmail.com
 
-## You can buy me a cuppa coffee here: ☕ 
-- If you like to support a fresh grad student like me, you can [buy me a cup of coffee](https://www.buymeacoffee.com/minjin777z), if you'd like.😙
+## Coffee breaks: ☕ 
+- You can [buy me a cup of coffee here](https://www.buymeacoffee.com/minjin777z), if you'd like.😙
 
 ## My Github Stats: 📈
 ![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntakinte777&show_icons=true&theme=apprentice)
