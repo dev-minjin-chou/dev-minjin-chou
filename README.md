@@ -1,6 +1,6 @@
 # Hey 👋,
 My name is Jaymond Chou Minjin, I am a 21 yo fresh grad who just recently stepped into the corporate world to learn from a different perspective! I am interested in writing and developing software and web development using JavaScript, Vuejs, ReactJs, Java and Python. 
-- 🔭 I’m currently working on my own interactive web personal portfolio.
+- 🔭 I’m currently working on my own interactive personal portfolio website.
 - 🌱 I’m currently learning three.js, solidity, web3 & vanilla script.
 
 ## You can reach me here: ☎️ 
@@ -13,6 +13,3 @@ My name is Jaymond Chou Minjin, I am a 21 yo fresh grad who just recently steppe
 ## My Github Stats: 📈
 ![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuntakinte777&show_icons=true&theme=apprentice)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuntakinte777&layout=compact)
-
-
-
