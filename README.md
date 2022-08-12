@@ -1,5 +1,5 @@
 # Hey 👋, 
-My name is Jaymond Chou Minjin, I am a 21 yo fresh grad who just recently stepped into the corporate world to learn from a different perspective! I am interested in writing and developing software and web development using JavaScript, Vuejs, ReactJs, Java and Python. 
+My name is Jaymond Chou Minjin, I am a 21 yo fresh grad who just recently stepped into the corporate world to learn from a different perspective! I am interested in writing and developing software and web development using JavaScript, Vuejs, Java and Python. 
 - 🔭 I’m currently working on my own interactive personal portfolio website.
 - 🌱 I’m currently learning three.js, vuejs, web3 & vanilla script.
 
