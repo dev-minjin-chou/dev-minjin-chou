@@ -17,5 +17,5 @@ My name is Jaymond Chou Minjin, I am a 21 yo fresh grad who just recently steppe
 ## .....
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## WIKI for pacman contest here:
+## WIKI for AI pacman contest here:
 [Click me!](https://github.com/kuntakinte777/COSC1125-1127-Contest-A.I/wiki)
