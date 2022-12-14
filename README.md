@@ -1,8 +1,16 @@
 # Hey 👋, 
 My name is Jaymond Chou Minjin, I am a 22 yo fresh grad who just recently stepped into the corporate world to learn from a different perspective! I am interested in writing and developing software and web development using JavaScript, Vuejs and Python. 
+
 - 🔭 I’m currently working on my own interactive personal portfolio website with threejs and react three fiber. 
-  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- 🌱 I’m currently learning three.js, vuejs, web3.
+
+
+## I am currently learning..: 
+-   ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+-   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+-   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+-   ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ## You can reach me here: ☎️ 
 - 📫 How to reach me: www.linkedin.com/in/jaymond-chou
