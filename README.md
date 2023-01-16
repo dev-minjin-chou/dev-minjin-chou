@@ -11,9 +11,9 @@ My name is Jaymond Chou Minjin, I am a 22 yo fresh grad who just recently steppe
 - 📫 How to reach me: www.linkedin.com/in/jaymond-chou
 - 📧 Email: minjin_777@hotmail.com
 
-## My Github Stats: 📈
+<!-- ## My Github Stats: 📈
 ![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-minjin-chou&show_icons=true&theme=apprentice)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-minjin-chou&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-minjin-chou&layout=compact) -->
 
 ## .....
 ![Jokes Card](https://readme-jokes.vercel.app/api)
