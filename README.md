@@ -1,5 +1,5 @@
 # Hey 👋, 
-My name is Jaymond Chou Minjin, I am a 22 yo fresh grad who just recently stepped into the corporate world to learn from a different perspective! I am interested in writing and developing software and web development using JavaScript, Threejs and Python. 
+My name is Jaymond Chou Minjin, I am interested in writing and developing software and web development using JavaScript, Threejs and Python. 
 
 - 🔭 I’m currently working on my own interactive personal portfolio website with threejs and react three fiber. 
 - [Personal Portfolio using React Three Fiber](https://minjin-chou.vercel.app)  ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
