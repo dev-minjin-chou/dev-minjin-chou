@@ -9,7 +9,7 @@ My name is Jaymond Chou Minjin, I am interested in writing and developing softwa
 
 ## You can reach me here: ☎️ 
 - 📫 How to reach me: www.linkedin.com/in/jaymond-chou
-- 📧 Email: minjin_777@hotmail.com
+- 📧 Email: minjin77.mj@gmail.com
 
 ## My Github Stats: 📈
 <!--- ![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-minjin-chou&show_icons=true&theme=apprentice) --->
