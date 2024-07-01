@@ -15,8 +15,8 @@
 <!--- ![Minjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-minjin-chou&show_icons=true&theme=apprentice) --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-minjin-chou&layout=compact)
 
-## ..... 
-https://readme-jokes.vercel.app/api
+<!--- ## ..... --->
+<!--- https://readme-jokes.vercel.app/api --->
 
 ## Wiki report for RMIT AI pacman contest here:
 [Click me!](https://github.com/kuntakinte777/COSC1125-1127-Contest-A.I/wiki)
